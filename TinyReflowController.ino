@@ -5,6 +5,7 @@
   Company: Rocket Scream Electronics
   Author: Lim Phang Moh
   Website: www.rocketscream.com
+  Contributor: Layne Berge
 
   Brief
   =====
